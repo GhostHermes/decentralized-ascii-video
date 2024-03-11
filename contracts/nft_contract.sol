@@ -7,10 +7,13 @@ contract NFTContract {
     uint256 tokenIdCounter; 
 
     struct NFT {
-        uint256 tokenId;
-        address owner; 
-        string asciiRepresentation; 
-        // ... additional metadata (title, creator, etc.) 
+            uint256 tokenId;
+            address owner; 
+            string asciiRepresentation; 
+            string title;
+            address creator;
+            string originalVideoHash; // IPFS hash of the original video
+            uint256 timestamp; // Timestamp of creation
     }
 
     mapping(uint256 => NFT) public nftData; 
