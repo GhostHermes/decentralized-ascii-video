@@ -1,10 +1,9 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-// Customize this section with any additional networks or plugins
-
+/** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
-  solidity: "0.8.9", // Adjust Solidity version as needed
+  solidity: "0.8.9", // Ensure this aligns with your NFTContract.sol version
   networks: {
-    hardhat: {}, // Localhost network - good for initial development
+    hardhat: {}, // Local network for development
   }
 };
