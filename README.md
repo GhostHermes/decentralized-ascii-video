@@ -55,7 +55,8 @@ Navigate to Project Directory:
 
 Use the cd command to change directories into the project folder you just cloned:
 
-cd decentralized-ascii-video
+    
+    cd decentralized-ascii-video
 
 ### Install Dependencies:
 
