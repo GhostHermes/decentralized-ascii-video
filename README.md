@@ -1,28 +1,35 @@
-# Decentralized ASCII Video Sharing
+# Decentralized ASCII Video dApp
 
-What is this?
-Imagine a video-sharing platform like TikTok, but where your creations live on the blockchain! This project is an experiment in decentralized creativity. Videos get converted into a low-resolution, text-based format called ASCII, making them more easily sharable and practically impossible to erase.
+**A collaborative project to build a decentralized platform for sharing unique, low-bandwidth video expressions preserved on the blockchain.**
 
-Why does this matter?
-Resilience: Storing creative content on the blockchain increases its permanence. Nothing can be taken down or censored in the same way as with traditional platforms.
-Retro Cool: ASCII videos have a unique, low-fi charm that brings a fun constraint to the video creation process.
-Collaboration: This project is fully open-source and built with mutualist principles. We want the community to shape how it develops.
-Who is this for?
-Creators: Experiment with a new form of video expression and preserve your work on the blockchain.
-Developers: Build with us! Contribute to smart contracts, front-end design, or create tools around the platform.
-The Crypto-Curious: If you're new to web3 and NFTs, this is a simple project to understand and learn from.
-How to Get Involved
-Try it out (Soon!): We're still in early development, but soon you'll be able to upload and share your ASCII videos.
-Star and Watch the Repo: Stay updated on our progress!
-Jump into the code: Find something to improve? Submit a pull request.
-Spread the word: Share this project if you think it's cool!
-License
-This project is released under the MIT License.  You are free to use, modify, and distribute it as you see fit!
+## What is this?
 
-A Note About Sustainability
-We are committed to responsible and energy-efficient blockchain usage.
+Imagine a video-sharing platform like TikTok, but with a twist:
 
-Let's build something unique together!
+* **ASCII Art Videos:** Videos are converted into stylized ASCII art, creating a unique viewing experience and minimizing storage needs.
+* **Blockchain-Powered:** Video ownership and core data live on the blockchain, ensuring long-term persistence and decentralization. 
+* **Community-Driven:** Designed  with a focus on sustainability, mutualist values, and open governance.
 
-Let me know if you want to tweak anything or add additional sections!
+## Why Does This Exist?
 
+* **Exploration of creative limitations:**  ASCII conversion forces us to rethink how we represent video, sparking unexpected creativity.
+* **Preservation:**  By leveraging blockchain technology, we aim to create a repository of creative expression less susceptible to platform changes or disappearing content.
+* **Decentralized Experiment:**  We believe in empowering users and moving away from centralized control of content.
+
+## Get Involved!
+
+This project is in its early stages, and we welcome enthusiastic contributors! Here's how you can help:
+
+* **Coding:** Help build our smart contracts, front-end interface, and ASCII conversion engine.
+* **Testing:**  Find bugs, suggest features, and make our dApp better for everyone.
+* **Spread the Word:** Share this project with those excited about decentralized tech and creative expression.
+
+## Project Setup & Contribution
+
+(We'll add more detailed instructions here as the project develops)
+
+## License
+
+This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt our code, as long as you provide appropriate credit and indicate any changes made.
+
+## Let's build something unique together! 
