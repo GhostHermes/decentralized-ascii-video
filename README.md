@@ -75,6 +75,4 @@ If you encounter any issues during setup, feel free to consult the Hardhat docum
 Consider joining the project's discussion forum or chat channel (if available) to connect with other contributors and get help if needed.
 By following these steps, you'll be well on your way to collaborating on this exciting decentralized video sharing project!
 
-
-Let me know if you'd like any modifications!
 ## Let's build something unique together! 
