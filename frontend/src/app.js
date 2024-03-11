@@ -11,6 +11,9 @@ if (typeof window.ethereum !== 'undefined') {
 // Placeholder for the handleUpload function
 async function handleUpload() {
     // 1. Get the uploaded video file 
-    // 2. (Future) Convert video to ASCII  
-    // 3. Interact with our NFTContract to mint an NFT
+    const fileInput = document.getElementById("videoUpload");
+    const file = fileInput.files[0]; // Assuming the user selects a single file
+
+    // 2. Basic Logging (for testing)
+    console.log("Uploaded File:", file.name, file.size); 
 }
