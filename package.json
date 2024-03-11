@@ -1,0 +1,15 @@
+{
+  "name": "decentralized-ascii-video",
+  "version": "1.0.0",
+  "description": "decentralized facsimile video sharing encoded to ASCII to fit on the blockchain. retro cyberpunk aesthetic. own your media. nft minting to backup ownership of your own content.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
