@@ -32,4 +32,24 @@ This project is in its early stages, and we welcome enthusiastic contributors! H
 
 This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt our code, as long as you provide appropriate credit and indicate any changes made.
 
+## Development Setup
+
+Welcome aboard! To jump into contributing to this project, you'll need to set up your local development environment using Hardhat. Here's a quick guide to get you started:
+
+**Prerequisites:**
+
+* **Node.js (version 14 or later):** Download and install Node.js from the official website ([https://nodejs.org/en](https://nodejs.org/en)). Node.js comes bundled with npm, the Node Package Manager, which we'll use to install dependencies.
+* **Git version control (optional, but recommended):** Install Git if you don't have it already. You can download it from [https://git-scm.com/downloads](https://git-scm.com/downloads). Git is a powerful tool for version control and collaboration, making it easier to track changes and work with others on the project.
+
+**Steps:**
+
+1. **Clone the Repository:**
+
+   If you haven't already, clone this repository to your local machine using Git. You can find detailed instructions on cloning a repository in the Git documentation: [https://git-scm.com/](https://git-scm.com/)
+
+   Once you've navigated to your terminal or command prompt, run the following command, replacing `<repository_url>` with the actual URL of this project's repository:
+
+   ```bash
+   git clone <repository_url>
+
 ## Let's build something unique together! 
