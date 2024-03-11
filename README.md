@@ -55,14 +55,12 @@ Navigate to Project Directory:
 
 Use the cd command to change directories into the project folder you just cloned:
 
-Bash
 cd decentralized-ascii-video
-Use code with caution.
-Install Dependencies:
+
+### Install Dependencies:
 
 Within the project directory, run the following command in your terminal to install the necessary dependencies using npm:
 
-    ```bash
     npm install
 
 
